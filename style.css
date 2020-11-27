@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(img/bg.jpg);
+    background-image: linear-gradient(to bottom, black,blue,black);
     background-size: cover no-repeat;
     background-position: center;
     font-family: sans-serif;
